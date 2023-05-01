@@ -1,0 +1,34 @@
+body{
+    padding: 5% 10%;
+    box-sizing: border-box;
+    margin: 0;
+    background: radial-gradient( dodgerblue,deepskyblue);
+}
+@font-face {
+    font-family: "Bomb";
+    src: url("./bubblegums/BUBBLEGUMS.TTF");
+  }
+  .head{
+      font-family: Bomb; 
+      font-size: 60px;
+      color: rgb(255, 255, 255);
+  }
+  .head:hover{
+    color: rgb(255, 255, 255);
+  }
+.ft-name{
+    font-family: Bomb;
+    font-size: 30px;
+}
+input{
+    border-radius: 10px;
+    width: 300px;
+    height: 50px;
+    padding: 2px 20px;
+    outline-color: dodgerblue;
+}
+@media(max-width:1000px){
+.head{
+    font-size: 30px;
+}
+}
