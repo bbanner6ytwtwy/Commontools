@@ -8,12 +8,12 @@ body{
     font-family: "Bomb";
     src: url("./bubblegums/BUBBLEGUMS.TTF");
   }
-  .head{
+  .headtext{
       font-family: Bomb; 
       font-size: 60px;
       color: rgb(255, 255, 255);
   }
-  .head:hover{
+  .headtext:hover{
     color: rgb(255, 255, 255);
   }
 .ft-name{
@@ -28,14 +28,10 @@ input{
     outline-color: dodgerblue;
 }
 @media(max-width:1000px){
-.head{
-<<<<<<< HEAD
+.headtext{
     font-size: 30px;
 }
 input{
     width: 200px;
-=======
-    font-size: 1.5rem;
 }
->>>>>>> 6a88a97fbbb4b86f06d2721141c53b477d0d623a
 }
