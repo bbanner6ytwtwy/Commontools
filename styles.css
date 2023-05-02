@@ -29,6 +29,6 @@ input{
 }
 @media(max-width:1000px){
 .head{
-    font-size: 30px;
+    font-size: 4rem;
 }
 }
