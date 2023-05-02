@@ -29,9 +29,13 @@ input{
 }
 @media(max-width:1000px){
 .head{
+<<<<<<< HEAD
     font-size: 5vw;
 }
 input{
     width: 200px;
+=======
+    font-size: 1.5rem;
 }
+>>>>>>> 6a88a97fbbb4b86f06d2721141c53b477d0d623a
 }
