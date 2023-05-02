@@ -18,7 +18,7 @@ body{
   }
 .ft-name{
     font-family: Bomb;
-    font-size: 30px;
+    font-size: 20px;
 }
 input{
     border-radius: 10px;
@@ -29,6 +29,9 @@ input{
 }
 @media(max-width:1000px){
 .head{
-    font-size: 30px;
+    font-size: 5vw;
+}
+input{
+    width: 200px;
 }
 }
