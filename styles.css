@@ -29,7 +29,7 @@ input{
 }
 @media(max-width:1000px){
 .headtext{
-    font-size: 30px;
+    font-size: 20px;
 }
 input{
     width: 200px;
